@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .pictures{
+    display: flex;
+    justify-content: center;
     margin-top: 30px;
     margin-left: 30px;
 }
+
 .pictures img{
     width: 800px;
     height: 100%;
